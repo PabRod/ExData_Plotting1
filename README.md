@@ -1,3 +1,7 @@
+## Note
+
+My code is intended to create the images inside the figures folder.
+
 ## Introduction
 
 This assignment uses data from

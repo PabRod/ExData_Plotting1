@@ -1,6 +1,6 @@
 ## Note
 
-My code is intended to create the images inside the figures folder.
+My code is intended to create the images inside the figures folder. I've created a copy in the main folder for clarity.
 
 ## Introduction
 
